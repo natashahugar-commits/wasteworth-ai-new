@@ -1,0 +1,6 @@
+{
+  "name": "WasteWorth AI",
+  "description": "Turn waste into worth. Discover material value, match with potential buyers, coordinate collection, and trace every batch through a Digital Waste Passport.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
